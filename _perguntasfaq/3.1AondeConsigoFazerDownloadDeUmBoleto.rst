@@ -1,0 +1,14 @@
+Aonde consigo fazer o download de um boleto?
+=======================================================================
+
+Para baixar o boleto de alguma autuação ou parcelamento, primeiramente, basta você entrar na aba “boletos”.
+
+.. image:: ../imagens/imagem013.png
+
+Feito isso, caso deseje, faça a filtragem do débito. 
+
+.. image:: ../imagens/imagem014.png
+
+E, por fim, clique em fazer o download do boleto, que estará apto para pagamento.
+
+.. image:: ../imagens/imagem015.png

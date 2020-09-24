@@ -1,0 +1,5 @@
+Onde posso fazer o pagamento do meu boleto?
+=======================================================================
+
+Caso o seu boleto tenha valor igual ou superior a R$ 50,00, será gerado um boleto do Banco do Brasil que pode ser pago a partir de qualquer outro banco.
+Caso o seu boleto tenha valor inferior a R$ 50,00, será gerado um boleto do Tesouro Nacional, que deverá ser pago no Banco do Brasil.

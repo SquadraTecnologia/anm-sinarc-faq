@@ -1,0 +1,5 @@
+Meu parcelamento foi cancelado, mas já havia pago alguma(s) parcela(s). O que vai acontecer?
+============================================================
+
+Nesse caso, a(s) parcela(s) serão abatidas no valor da multa e um novo boleto será gerado com o valor atualizado na aba “boletos”
+

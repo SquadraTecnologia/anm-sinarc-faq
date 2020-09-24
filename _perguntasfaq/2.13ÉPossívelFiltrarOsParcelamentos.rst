@@ -1,0 +1,11 @@
+É possível filtrar os parcelamentos?
+============================================================
+
+Sim! Para você filtrar algum parcelamento, vá na opção “Selecione o Débito” do Sistema.
+<br>Lá, você encontrará as seguintes opções de filtragem:
+<br>Tipo de Débito 
+<br>Identificador do Documento
+<br>Número do Processo de Cobrança
+<br>Data de Vencimento
+
+.. image:: ../imagens/imagem012.png
