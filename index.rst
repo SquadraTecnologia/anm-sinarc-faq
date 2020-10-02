@@ -30,8 +30,15 @@ FAQ SINARC
 
 .. toctree::
    :maxdepth: 3
+   :caption: DEFESAS / RECURSO DE MULTAS
+   _perguntasfaq/3.1OQuePodeLevarAUmaAutuaçãoEQualÉOValorDelas
+   _perguntasfaq/3.2ReceboUmaNotificaçãoQualÉOMeuPrazoDeDefesa
+
+
+.. toctree::
+   :maxdepth: 3
    :caption: BOLETOS
 
-   _perguntasfaq/3.1AondeConsigoFazerDownloadDeUmBoleto
-   _perguntasfaq/3.2OndePossoFazerOPagamentoDoMeuBoleto
-   _perguntasfaq/3.3NovoBoletoEmCasoDeParcelamentoDeMulta
+   _perguntasfaq/4.1AondeConsigoFazerDownloadDeUmBoleto
+   _perguntasfaq/4.2OndePossoFazerOPagamentoDoMeuBoleto
+   _perguntasfaq/4.3NovoBoletoEmCasoDeParcelamentoDeMulta
