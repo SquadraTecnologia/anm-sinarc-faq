@@ -1,0 +1,5 @@
+Onde posso fazer o pagamento do meu boleto?
+============================================================
+
+Caso o seu boleto tenha valor igual ou superior a R$ 50,00, o mesmo poderá ser pago a partir de qualquer outro banco.
+Caso o seu boleto tenha valor inferior a R$ 50,00, o mesmo deverá ser pago em alguma agência do Banco do Brasil.

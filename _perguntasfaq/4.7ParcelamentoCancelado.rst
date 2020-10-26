@@ -1,0 +1,4 @@
+O que pode levar um parcelamento a ser cancelado?
+============================================================
+ 
+O parcelamento será cancelado automaticamente quando não houver o adimplemento de duas prestações consecutivas, de três alternadas ou de até duas prestações, ainda que alternadas, se não houver outras prestações vincendas. Também poderá ser cancelado de ofício mediante a constatação pela ANM de algum vício na solicitação.

@@ -1,0 +1,8 @@
+Quais boletos eu consigo solicitar no Portal do Minerador?
+============================================================
+
+Dentro do portal é possível obter boletos de:
+
+Multas
+Parcelamento
+Antecipação de Parcela

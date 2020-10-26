@@ -1,0 +1,6 @@
+Eu, como representante legal de uma empresa, posso solicitar um parcelamento de multa?
+=======================================================================
+
+Sim! Você pode solicitar um parcelamento, mas para isso você vai precisar anexar os documentos que comprovam que você pode solicitar o parcelamento em nome da empresa.
+Para fazer isso, na aba de “Selecionar Parcelamento” vá em “Anexar” e insira os  documentos (arquivo necessita ser em PDF).
+

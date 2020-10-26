@@ -1,0 +1,4 @@
+O que acontece com o boleto de um débito quando eu o parcelo?
+=======================================================================
+ 
+O boleto de um débito que foi parcelado não mais ficará disponível para pagamento e sim o boleto da 1ª parcela do do parcelamento. Caso você não pague o boleto da 1ª parcela do parcelamento, o boleto do débito volta a ficar disponível para pagamento.

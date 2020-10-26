@@ -1,4 +1,0 @@
-Será gerado um novo boleto em caso de parcelamento de multa?
-=======================================================================
-
-Sim! Em caso de parcelamento de multa, o boleto da multa deixa de ficar ativo e é ativado o boleto da primeira parcela para download e pagamento.

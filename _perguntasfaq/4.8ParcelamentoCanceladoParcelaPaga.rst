@@ -1,0 +1,4 @@
+Meu parcelamento foi cancelado, mas já havia pago alguma (s) parcela (s). O que vai acontecer?
+=======================================================================
+ 
+Nesse caso, o valor pago na(s) parcela(s) serão abatidos no valor da multa.

@@ -1,0 +1,6 @@
+Posso antecipar as parcelas de um parcelamento?
+============================================================
+
+Sim, é possível você antecipar as parcelas. Neste caso, a antecipação será possível do final para o início.
+Ao solicitar a antecipação, caso o boleto do mês corrente esteja em aberto, será gerado um único boleto: a do mês corrente + as parcelas que você está antecipando.
+O vencimento da parcela de antecipação será no último dia útil do mês em que a solicitação está sendo realizada.

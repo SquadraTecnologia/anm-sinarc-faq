@@ -11,35 +11,44 @@ FAQ SINARC
 
 .. toctree::
    :maxdepth: 3
-   :caption: AUTUAÇÕES E PARCELAS
+   :caption: FUNCIONALIDADES DO PORTAL
 
    _perguntasfaq/2.1FuncionalidadesSinarcParaOMinerador
-   _perguntasfaq/2.2OQuePodeLevarAUmaAutuaçãoEQualOValorDelas
-   _perguntasfaq/2.3PrazoDeDefesaPosAutuação
-   _perguntasfaq/2.4CorreçõesMonetáriasPosDívida
-   _perguntasfaq/2.5OQuePodeAcontecerCasoNãoPagueAAutuação
-   _perguntasfaq/2.6PossibilidadeDeAdiantarFaturas
-   _perguntasfaq/2.7ParcelamentoIndeferido
-   _perguntasfaq/2.8ComoRealizoParcelamentoDaAutuação
-   _perguntasfaq/2.9OndeEncontroAsRegrasDeParcelamento
-   _perguntasfaq/2.10RepresentanteLegalDeEmpresaPodeSolicitarParcelamentoDeMulta
-   _perguntasfaq/2.11OQuePodeLevarUmParcelamentoASerCancelado
-   _perguntasfaq/2.12ParcelamentoCancelado
-   _perguntasfaq/2.13ÉPossívelFiltrarOsParcelamentos
-   _perguntasfaq/2.14ValorMínimoDaParcela
 
 .. toctree::
    :maxdepth: 3
-   :caption: DEFESAS / RECURSO DE MULTAS
-   
-   _perguntasfaq/3.1OQuePodeLevarAUmaAutuaçãoEQualÉOValorDelas
-   _perguntasfaq/3.2ReceboUmaNotificaçãoQualÉOMeuPrazoDeDefesa
+   :caption: DEFESA / RECURSO DE MULTAS
+
+   _perguntasfaq/3.1OQuePodeLevarAUmaAutuaçãoEQualOValorDelas
+   _perguntasfaq/3.2PrazoDeDefesaPosAutuação
+   _perguntasfaq/3.3PrazoRecurso
+   _perguntasfaq/3.4ComoEntroDefesaRecurso
+   _perguntasfaq/3.5OQuePodeAcontecerCasoRecursoDeferido
+   _perguntasfaq/3.6CorreçõesMonetáriasPosDívida
+   _perguntasfaq/3.7NaoPagamentoMulta
+
+.. toctree::
+   :maxdepth: 3
+   :caption: PARCELAMENTO DE MULTA
+
+   _perguntasfaq/4.1PossoAnteciparParcelasParcelamento
+   _perguntasfaq/4.2ComoRealizoParcelamentoMulta
+   _perguntasfaq/4.3QuePodeLevarParcelamentoSejaIndeferido
+   _perguntasfaq/4.4PossoParcelarMultaUnicoParcelamento
+   _perguntasfaq/4.5RegrasParcelamento
+   _perguntasfaq/4.6RepresentanteLegalSolicitarParcelamento
+   _perguntasfaq/4.7ParcelamentoCancelado
+   _perguntasfaq/4.8ParcelamentoCanceladoParcelaPaga 
+   _perguntasfaq/4.9ValorMinimoParcela
+   _perguntasfaq/4.10ReparcelamentoPossivel 
 
 
 .. toctree::
    :maxdepth: 3
-   :caption: BOLETOS
+   :caption: SEGUNDA VIA DE BOLETOS
 
-   _perguntasfaq/4.1AondeConsigoFazerDownloadDeUmBoleto
-   _perguntasfaq/4.2OndePossoFazerOPagamentoDoMeuBoleto
-   _perguntasfaq/4.3NovoBoletoEmCasoDeParcelamentoDeMulta
+   _perguntasfaq/5.1QuaisBoletosPossivelSolicitarPortalMinerador
+   _perguntasfaq/5.2OndeDownloadBoleto
+   _perguntasfaq/5.3OndePgtoBoleto
+   _perguntasfaq/5.4BoletoDebitoParcelamento
+      

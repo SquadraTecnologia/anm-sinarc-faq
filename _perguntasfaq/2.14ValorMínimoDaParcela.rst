@@ -1,4 +1,0 @@
-Qual é o valor mínimo que uma parcela pode ter?
-============================================================
-
-Depende. Para uma Pessoa Física, o valor base de uma parcela é de R$ 50,00. Já para uma Pessoa Jurídica, esse valor sobe para R$ 300,00.

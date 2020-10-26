@@ -1,0 +1,4 @@
+Posso parcelar mais de uma multa em um único parcelamento?
+============================================================
+ 
+Não. O parcelamento deve ser feito de forma unitária para cada débito. É vedado o agrupamento de processos de cobrança, ainda que atinentes à mesma receita. Sendo assim, cada débito selecionado resultará em um parcelamento (exemplo: se selecionar 10 débitos, serão gerados 10 parcelamentos).

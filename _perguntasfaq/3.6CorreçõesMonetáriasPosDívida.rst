@@ -1,0 +1,4 @@
+A partir de que momento o não pagamento de multa começará a me gerar correções monetárias (juros)?
+============================================================
+ 
+As multas não pagas até o dia do vencimento serão acrescidos da taxa Selic, calculados a partir do mês seguinte do vencimento do crédito até o mês anterior ao pagamento + 1% e de multa mora, correspondente a 0,33% ao dia calculada sobre o valor original do crédito desde o primeiro dia subsequente ao vencimento até o dia em que o pagamento ocorrer, sendo este acréscimo limitado a 20%.
