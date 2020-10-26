@@ -1,0 +1,14 @@
+Quais são as funcionalidades do sistema do Portal do Minerador para o minerador?
+==========================================================
+
+No Portal do Minerador você vai encontrar os seguintes serviços:
+
+Solicitar o parcelamento
+
+Obter segunda via de boleto para pagamento de alguma autuação ou parcelamento
+
+Protocolar defesa
+
+Protocolar Recurso
+
+Solicitar antecipação de parcelas
