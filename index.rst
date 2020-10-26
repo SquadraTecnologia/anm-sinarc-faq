@@ -33,7 +33,7 @@ FAQ SINARC
 
    _perguntasfaq/4.1PossoAnteciparParcelasParcelamento
    _perguntasfaq/4.2ComoRealizoParcelamentoMulta
-   _perguntasfaq/4.3QuePodeLevarParcelamentoIndeferido
+   _perguntasfaq/4.3QueLevaParcelamentoIndeferido
    _perguntasfaq/4.4PossoParcelarMultaUnicoParcelamento
    _perguntasfaq/4.5RegrasParcelamento
    _perguntasfaq/4.6RepresentanteLegalSolicitarParcelamento
