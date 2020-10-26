@@ -13,7 +13,7 @@ FAQ SINARC
    :maxdepth: 3
    :caption: FUNCIONALIDADES DO PORTAL
 
-   _perguntasfaq/2.1FuncionalidadesSinarcParaOMinerador
+   _perguntasfaq/2.1FuncionalidadesSinarcParaMinerador
 
 .. toctree::
    :maxdepth: 3
@@ -33,7 +33,7 @@ FAQ SINARC
 
    _perguntasfaq/4.1PossoAnteciparParcelasParcelamento
    _perguntasfaq/4.2ComoRealizoParcelamentoMulta
-   _perguntasfaq/4.3QuePodeLevarParcelamentoSejaIndeferido
+   _perguntasfaq/4.3QuePodeLevarParcelamentoIndeferido
    _perguntasfaq/4.4PossoParcelarMultaUnicoParcelamento
    _perguntasfaq/4.5RegrasParcelamento
    _perguntasfaq/4.6RepresentanteLegalSolicitarParcelamento
@@ -47,7 +47,7 @@ FAQ SINARC
    :maxdepth: 3
    :caption: SEGUNDA VIA DE BOLETOS
 
-   _perguntasfaq/5.1QuaisBoletosPossivelSolicitarPortalMinerador
+   _perguntasfaq/5.1QuaisBoletosPossivelSolicitarPortal
    _perguntasfaq/5.2OndeDownloadBoleto
    _perguntasfaq/5.3OndePgtoBoleto
    _perguntasfaq/5.4BoletoDebitoParcelamento
