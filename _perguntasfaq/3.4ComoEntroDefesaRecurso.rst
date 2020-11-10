@@ -10,7 +10,7 @@ Como entro com defesa/recurso?
 3- Para maiores detalhamentos e também para a inserção do documento da Defesa, é necessário clicar no ícone visualizar
 
 
-.. image:: ../imagens/MicrosoftTeams-image (1).png
+.. image:: ../imagens/MicrosoftTeams-image(1).png
 
 1- Aqui, é possível visualizar todas as informações referentes à autuação aplicada
 
