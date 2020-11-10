@@ -5,6 +5,7 @@ Caso não seja realizado o pagamento da 1ª parcela dentro do vencimento, o parc
 
 .. image:: ../imagens/fotoa.png
 
+
 Em seguida, abra o manual que corresponde ao “Termo de Ciência”, leia-o e por fim, pressione o botão “Estou Ciente” (que será habilitado) para continuar
 
 .. image:: ../imagens/fotob.png
