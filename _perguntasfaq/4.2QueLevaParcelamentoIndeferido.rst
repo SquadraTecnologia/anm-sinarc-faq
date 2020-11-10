@@ -2,32 +2,3 @@ O que pode levar a fazer com que um parcelamento de multa seja indeferido?
 ============================================================
  
 Caso não seja realizado o pagamento da 1ª parcela dentro do vencimento, o parcelamento será automaticamente indeferido, implicando na desistência do parcelamento e a nulidade, para todos os efeitos, desta confissão de dívida.
-
-.. image:: ../imagens/fotoa.png
-
-
-Em seguida, abra o manual que corresponde ao “Termo de Ciência”, leia-o e por fim, pressione o botão “Estou Ciente” (que será habilitado) para continuar
-
-.. image:: ../imagens/fotob.png
-
-Feito isso, agora verifique as informações do Representante (nome, cpf e e-mail) e, caso necessário, adicione mais algum e-mail.
-
-.. image:: ../imagens/fotoc.png
-
-Após solicitar o Parcelamento de alguma multa, caso deseje filtrar este débito, vá na aba “Selecione os Débitos”.
-
-.. image:: ../imagens/fotod.png
-
-Agora, verifique os débitos encontrados e selecione o que você deseja solicitar o parcelamento.
-
-.. image:: ../imagens/fotoe.png
-
-Nesse ponto, insira a quantidade desejada de parcelas, e caso você esteja representando alguma empresa, é necessário também anexar uma Procuração registrada em cartório que comprove a sua posição (em formato PDF).
-
-.. image:: ../imagens/fotof.png
-
-Pressione o botão salvar e verifique o seu débito na tabela “Resumo de Parcelamento”.
-
-.. image:: ../imagens/fotog.png
-
-Neste momento, será exibido um modal com os boletos da primeira parcela em que será necessário realizar o parcelamento, e também você receberá um termo de parcelamento.
