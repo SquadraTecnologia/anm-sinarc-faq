@@ -32,15 +32,14 @@ FAQ SINARC
    :caption: PARCELAMENTO DE MULTA
 
    _perguntasfaq/4.1PossoAnteciparParcelasParcelamento
-   _perguntasfaq/4.2ComoRealizoParcelamentoMulta
-   _perguntasfaq/4.3QueLevaParcelamentoIndeferido
-   _perguntasfaq/4.4PossoParcelarMultaUnicoParcelamento
-   _perguntasfaq/4.5RegrasParcelamento
-   _perguntasfaq/4.6RepresentanteLegalSolicitarParcelamento
-   _perguntasfaq/4.7ParcelamentoCancelado
-   _perguntasfaq/4.8ParcelamentoCanceladoParcelaPaga 
-   _perguntasfaq/4.9ValorMinimoParcela
-   _perguntasfaq/4.10ReparcelamentoPossivel 
+   _perguntasfaq/4.2QueLevaParcelamentoIndeferido
+   _perguntasfaq/4.3PossoParcelarMultaUnicoParcelamento
+   _perguntasfaq/4.4RegrasParcelamento
+   _perguntasfaq/4.5RepresentanteLegalSolicitarParcelamento
+   _perguntasfaq/4.6ParcelamentoCancelado
+   _perguntasfaq/4.7ParcelamentoCanceladoParcelaPaga 
+   _perguntasfaq/4.8ValorMinimoParcela
+   _perguntasfaq/4.9ReparcelamentoPossivel 
 
 
 .. toctree::
