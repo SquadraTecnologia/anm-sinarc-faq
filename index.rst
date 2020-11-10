@@ -1,4 +1,4 @@
-FAQ SINARC 
+FAQ - PORTAL DO MINERADOR 
 ===============
 
 .. toctree::
