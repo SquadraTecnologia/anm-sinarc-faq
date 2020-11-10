@@ -1,4 +1,4 @@
-FAQ - PORTAL DO MINERADOR 
+FAQ - PORTAL DO MINERADOR - INFRAÇÕES
 ===============
 
 .. toctree::
